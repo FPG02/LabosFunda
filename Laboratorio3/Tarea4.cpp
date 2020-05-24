@@ -14,7 +14,7 @@ int main(){
     cout<<"Ingrese el precio del producto: $";
     cin>>variable2;
 
-    cout<<"Ingrese la cantidad comprada del producto: $";
+    cout<<"Ingrese la cantidad comprada del producto: ";
     cin>>variable3;
 
     float multiplies = variable2*variable3;
